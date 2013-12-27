@@ -57,92 +57,11 @@
   <project path="device/sample" name="TEAM-Gummy/android_device_sample" remote="tg" revision="kk4.4" />
 
   <!-- Gummy Devices -->
-  <project path="device/asus/grouper" name="TEAM-Gummy/android_device_asus_grouper" remote="tg" revision="kk4.4" />
-  <project path="device/asus/flo" name="TEAM-Gummy/android_device_asus_flo" remote="tg" revision="kk4.4-fix" />
-  <project path="device/bn/encore" name="TEAM-Gummy/android_device_bn_encore" remote="tg" revision="jb4.3" />
-  <project path="device/htc/msm8960-common" name="TEAM-Gummy/android_device_htc_msm8960-common" remote="tg" revision="kk4.4" />
-  <project path="device/htc/m7-common" name="TEAM-Gummy/android_device_htc_m7-common" remote="tg" revision="kk4.4" />
-  <project path="device/htc/m7tmo" name="TEAM-Gummy/android_device_htc_m7tmo" remote="tg" revision="kk4.4" />
-  <project path="device/htc/m7ul" name="TEAM-Gummy/android_device_htc_m7ul" remote="tg" revision="jb4.3" />
-  <project path="device/htc/m7vzw" name="TEAM-Gummy/android_device_htc_m7vzw" remote="tg" revision="kk4.4" />
-  <project path="device/lge/d800" name="TEAM-Gummy/android_device_lge_d800" remote="tg" revision="kk4.4" />
-  <project path="device/lge/d802" name="TEAM-Gummy/android_device_lge_d802" remote="tg" revision="kk4.4" />
-  <project path="device/lge/e980" name="TEAM-Gummy/android_device_lge_e980" remote="tg" revision="kk4.4" />
-  <project path="device/lge/gproj-common" name="TEAM-Gummy/android_device_lge_gproj-common" remote="tg" revision="kk4.4" />
-  <project path="device/lge/g2-common" name="TEAM-Gummy/android_device_lge_g2-common" remote="tg" revision="kk4.4" />
-  <project path="device/lge/iprj-common" name="TEAM-Gummy/android_device_lge_iprj-common" remote="tg" revision="kk4.4" />
   <project path="device/lge/hammerhead" name="TEAM-Gummy/android_device_lge_hammerhead" remote="tg" revision="kk4.4" />
-  <project path="device/lge/mako" name="TEAM-Gummy/android_device_lge_mako" remote="tg" revision="kk4.4" />
-  <project path="device/lge/p930" name="TEAM-Gummy/android_device_lge_p930" remote="tg" revision="kk4.4" />
-  <project path="device/lge/vs920" name="TEAM-Gummy/android_device_lge_vs920" remote="tg" revision="kk4.4" />
-  <project path="device/lge/vs980" name="TEAM-Gummy/android_device_lge_vs980" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/maserati" name="TEAM-Gummy/android_device_motorola_maserati" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/mb886" name="TEAM-Gummy/android_device_motorola_mb886" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/msm8960-common" name="TEAM-Gummy/android_device_motorola_msm8960-common" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/msm8960dt-common" name="TEAM-Gummy/android_device_motorola_msm8960dt-common" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/omap4-common" name="TEAM-Gummy/android_device_motorola_omap4-common" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/qcom-common" name="TEAM-Gummy/android_device_motorola_qcom-common" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/spyder" name="TEAM-Gummy/android_device_motorola_spyder" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/targa" name="TEAM-Gummy/android_device_motorola_targa" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/umts_spyder" name="TEAM-Gummy/android_device_motorola_umts_spyder" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/xt897" name="TEAM-Gummy/android_device_motorola_xt897" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/xt907" name="TEAM-Gummy/android_device_motorola_xt907" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/xt925" name="TEAM-Gummy/android_device_motorola_xt925" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/xt926" name="TEAM-Gummy/android_device_motorola_xt926" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/xt1053" name="TEAM-Gummy/android_device_motorola_xt1053" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/xt1055" name="TEAM-Gummy/android_device_motorola_xt1055" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/xt1056" name="TEAM-Gummy/android_device_motorola_xt1056" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/xt1058" name="TEAM-Gummy/android_device_motorola_xt1058" remote="tg" revision="kk4.4" />
-  <project path="device/motorola/xt1060" name="TEAM-Gummy/android_device_motorola_xt1060" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/d2-common" name="TEAM-Gummy/android_device_samsung_d2-common" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/d2att" name="TEAM-Gummy/android_device_samsung_d2att" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/d2cri" name="TEAM-Gummy/android_device_samsung_d2cri" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/d2mtr" name="TEAM-Gummy/android_device_samsung_d2mtr" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/d2spr" name="TEAM-Gummy/android_device_samsung_d2spr" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/d2tmo" name="TEAM-Gummy/android_device_samsung_d2tmo" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/d2usc" name="TEAM-Gummy/android_device_samsung_d2usc" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/d2vzw" name="TEAM-Gummy/android_device_samsung_d2vzw" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/i605" name="TEAM-Gummy/android_device_samsung_i605" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/jflteatt" name="TEAM-Gummy/android_device_samsung_jflteatt" remote="tg" revision="jb4.3" />
-  <project path="device/samsung/jfltecsp" name="TEAM-Gummy/android_device_samsung_jfltecsp" remote="tg" revision="jb4.3" />
-  <project path="device/samsung/jfltecri" name="TEAM-Gummy/android_device_samsung_jfltecri" remote="tg" revision="jb4.3" />
-  <project path="device/samsung/jflteusc" name="TEAM-Gummy/android_device_samsung_jflteusc" remote="tg" revision="jb4.3" />
-  <project path="device/samsung/jfltecan" name="TEAM-Gummy/android_device_samsung_jfltecan" remote="tg" revision="jb4.3" />
-  <project path="device/samsung/jfltespr" name="TEAM-Gummy/android_device_samsung_jfltespr" remote="tg" revision="jb4.3" />
-  <project path="device/samsung/jfltevzw" name="TEAM-Gummy/android_device_samsung_jfltevzw" remote="tg" revision="jb4.3" />
-  <project path="device/samsung/jfltetmo" name="TEAM-Gummy/android_device_samsung_jfltetmo" remote="tg" revision="jb4.3" />
-  <project path="device/samsung/jfltexx" name="TEAM-Gummy/android_device_samsung_jfltexx" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/jf-common" name="TEAM-Gummy/android_device_samsung_jf-common" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/qcom-common" name="TEAM-Gummy/android_device_samsung_qcom-common" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/maguro" name="TEAM-Gummy/android_device_samsung_maguro" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/msm8960-common" name="TEAM-Gummy/android_device_samsung_msm8960-common" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/smdk4412-common" name="TEAM-Gummy/android_device_samsung_smdk4412-common" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/smdk4412-qcom-common" name="TEAM-Gummy/android_device_samsung_smdk4412-qcom-common" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/toro" name="TEAM-Gummy/android_device_samsung_toro" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/toroplus" name="TEAM-Gummy/android_device_samsung_toroplus" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/tuna" name="TEAM-Gummy/android_device_samsung_tuna" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/t0lte" name="TEAM-Gummy/android_device_samsung_t0lte" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/t0lteatt" name="TEAM-Gummy/android_device_samsung_t0lteatt" remote="tg" revision="kk4.4" />
-  <project path="device/samsung/t0ltetmo" name="TEAM-Gummy/android_device_samsung_t0ltetmo" remote="tg" revision="kk4.4" />
 
   <!-- Kernel Sources -->
-  <project path="kernel/asus/grouper" name="TEAM-Gummy/Gummy_kernel_grouper" remote="tg" revision="kk4.4" />
-  <project path="kernel/bn/encore" name="CyanogenMod/android_kernel_bn_encore" remote="cm" revision="encore-omap3-3" />
-  <project path="kernel/asus/flo" name="TEAM-Gummy/flo_nexus7" remote="tg"  revision="kk4.4" />
-  <project path="kernel/htc/m7" name="CyanogenMod/android_kernel_htc_m7" remote="cm" revision="cm-11.0" />
-  <project path="kernel/lge/gproj" name="CyanogenMod/lge-kernel-gproj" remote="cm" revision="cm-11.0" />
-  <project path="kernel/lge/iproj" name="CyanogenMod/lge-kernel-iproj" remote="cm" revision="cm-11.0" />
   <project path="kernel/lge/hammerhead" name="TEAM-Gummy/android_kernel_lge_hammerhead" remote="tg" revision="kk4.4" />
-  <project path="kernel/lge/mako" name="TEAM-Gummy/android_kernel_lge_mako" remote="tg" revision="kk4.4" />
-  <project path="kernel/lge/msm8974" name="CyanogenMod/android_kernel_lge_msm8974" remote="cm" revision="cm-11.0" />
-  <project path="kernel/motorola/omap4-common" name="CyanogenMod/android_kernel_motorola_omap4-common" remote="cm" revision="cm-11.0" />
-  <project path="kernel/motorola/msm8960-common" name="CyanogenMod/android_kernel_motorola_msm8960-common" remote="cm" revision="cm-11.0" />
-  <project path="kernel/motorola/msm8960dt-common" name="CyanogenMod/android_kernel_motorola_msm8960dt-common" remote="cm" revision="cm-11.0" />
-  <project path="kernel/samsung/d2" name="TEAM-Gummy/android_kernel_samsung_d2" remote="tg" revision="kk4.4" />
-  <project path="kernel/samsung/jf" name="TEAM-Gummy/elite_kernel_jf" remote="tg" revision="kk4.4" />
-  <project path="kernel/samsung/smdk4412" name="TEAM-Gummy/android_kernel_samsung_smdk4412" remote="tg" revision="kk4.4" />
-  <project path="kernel/samsung/tuna" name="CyanogenMod/android_kernel_samsung_tuna" remote="cm" revision="cm-11.0" />
-
+  
   <!-- External Packages -->
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" />
@@ -583,14 +502,8 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 
   <!-- Vendor Packages -->
-  <project path="vendor/asus" name="TEAM-Gummy/proprietary_vendor_asus" remote="tg" revision="kk4.4" />
-  <project path="vendor/Gummy" name="TEAM-Gummy/vendor_Gummy" remote="tg" revision="kk4.4" />
-  <project path="vendor/bn" name="proprietary_vendor_bn" remote="tm" revision="cm-10.2" />
-  <project path="vendor/htc" name="proprietary_vendor_htc" remote="tm" revision="cm-11.0" />
   <project path="vendor/lge" name="proprietary_vendor_lge" remote="tm" revision="cm-11.0" />
-  <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="tm" revision="cm-11.0" />
   <!-- <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" remote="cm" revision="cm-11.0" /> -->
-  <project path="vendor/samsung" name="TEAM-Gummy/proprietary_vendor_samsung" remote="tg" revision="kk4.4" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-11.0" />
