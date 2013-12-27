@@ -16,6 +16,9 @@
   <remote  name="cm"
            fetch="https://github.com/"
            review="review.cyanogenmod.com" />
+          
+  <remote name="sellers"
+          fetch="https://github.com/sellers86/"
 
   <default revision="refs/tags/android-4.4.2_r1"
            remote="aosp"
@@ -60,7 +63,7 @@
   <project path="device/lge/hammerhead" name="TEAM-Gummy/android_device_lge_hammerhead" remote="tg" revision="kk4.4" />
 
   <!-- Kernel Sources -->
-  <project path="kernel/lge/hammerhead" name="TEAM-Gummy/android_kernel_lge_hammerhead" remote="tg" revision="kk4.4" />
+  <project path="kernel/lge/hammerhead" name="sellers86/android_kernel_lge_hammerhead" remote="sellers" revision="kk4.4" />
   
   <!-- External Packages -->
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
